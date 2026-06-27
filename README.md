@@ -47,12 +47,14 @@ Engenheiro de plataformas analíticas com mais de **6 anos** construindo arquite
 
 ---
 
-### GitHub Stats
+### Destaques
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=scudellerlemos&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scudellerlemos&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+![Experiência](https://img.shields.io/badge/Experiência-6%2B_anos-4285F4?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-GCP_·_AWS-232F3E?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-Databricks_·_Spark-E25A1C?style=for-the-badge)
+![Foco](https://img.shields.io/badge/Foco-Governança_·_Observabilidade-0F6E56?style=for-the-badge)
 
 </div>
 
