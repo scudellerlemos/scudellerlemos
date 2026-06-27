@@ -51,7 +51,7 @@ Engenheiro de plataformas analíticas com mais de **6 anos** construindo arquite
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=scudellerlemos&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=scudellerlemos&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true&hide=stars,issues,contribs&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scudellerlemos&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
 
 </div>
