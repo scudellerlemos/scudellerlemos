@@ -1,6 +1,5 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4285F4&center=true&vCenter=true&width=620&lines=Analytics+Platform+Engineer;6%2B+anos+em+plataformas+de+dados;GCP+%C2%B7+AWS+%C2%B7+Databricks+%C2%B7+Spark;Governan%C3%A7a+%C2%B7+Resili%C3%AAncia+%C2%B7+Observabilidade)](https://github.com/scudellerlemos)
 
 # Felipe Scudeller
 
