@@ -67,7 +67,7 @@ Engenheiro de plataformas analíticas com foco em **resiliência de serviços**,
 ### Contato
 
 <p>
-  <a href="https://www.linkedin.com/in/felipe-scudeller/">
+  <a href="https://www.linkedin.com/in/felipe-scudeller-4aa689129/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:felipe.sp.scudeller@gmail.com">
