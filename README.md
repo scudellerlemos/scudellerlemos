@@ -1,23 +1,23 @@
-<h1 align="center">Olá, eu sou o Felipe Scudeller 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Analytics Platform Engineer</strong> · São Paulo, Brasil 🇧🇷
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=4285F4&center=true&vCenter=true&width=620&lines=Analytics+Platform+Engineer;6%2B+anos+em+plataformas+de+dados;GCP+%C2%B7+AWS+%C2%B7+Databricks+%C2%B7+Spark;Governan%C3%A7a+%C2%B7+Resili%C3%AAncia+%C2%B7+Observabilidade)](https://github.com/scudellerlemos)
 
-<p align="center">
-  Construindo plataformas de dados escaláveis e governadas há mais de 6 anos.
-</p>
+# Felipe Scudeller
+
+**Analytics Platform Engineer** · São Paulo, Brasil 🇧🇷
+
+</div>
 
 ---
 
 ### Sobre
 
-Engenheiro de plataformas analíticas com foco em **resiliência de serviços**, **governança de dados** e **observabilidade**. Trabalho na estruturação de camadas analíticas (Bronze / Silver / Gold) e na manutenção de camadas semânticas unificadas, com arquiteturas em **GCP** (BigQuery, Composer) e **AWS / Databricks** (Spark).
+Engenheiro de plataformas analíticas com mais de **6 anos** construindo arquiteturas de dados **escaláveis e governadas**. Atuo com foco em **resiliência de serviços**, **governança de acesso** e **observabilidade**, estruturando camadas analíticas (Bronze / Silver / Gold) e camadas semânticas unificadas em ambientes **GCP** (BigQuery, Composer) e **AWS / Databricks** (Spark).
 
-- 🔭 Liderança técnica em pipelines de dados e mentoria em arquitetura voltada para BI
-- 🛡️ Implementação de Custódia de Acesso (Ownership) e boas práticas de plataforma
-- 💸 Eficiência de custos em cloud — de fluxos de semanas para minutos
-- 📚 Estudando Engenharia de IA e liderança organizacional (MBAs em andamento)
+- 🏗️ Liderança técnica na estruturação de pipelines de dados e mentoria em arquitetura voltada para BI
+- 🛡️ Implementação de **Custódia de Acesso (Ownership)** e comitê técnico de boas práticas, garantindo estabilidade de plataforma
+- 💸 Eficiência de custos em cloud — auditorias no BigQuery e dados unificados que reduziram fluxos de **semanas para minutos**
+- 🎓 Formação contínua em **Engenharia de IA** e liderança organizacional (MBAs em andamento)
 
 ---
 
@@ -47,6 +47,17 @@ Engenheiro de plataformas analíticas com foco em **resiliência de serviços**,
 
 ---
 
+### GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=scudellerlemos&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scudellerlemos&layout=compact&hide_border=true&theme=github_dark&langs_count=8)
+
+</div>
+
+---
+
 ### Projetos em destaque
 
 | Projeto | Descrição |
@@ -58,19 +69,21 @@ Engenheiro de plataformas analíticas com foco em **resiliência de serviços**,
 
 ### Certificações
 
-- Tableau Desktop Specialist
-- Developing Data Models with LookML
-- Prepare Data for Looker Dashboards and Reports
+![Tableau](https://img.shields.io/badge/Tableau_Desktop_Specialist-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Looker](https://img.shields.io/badge/Developing_Data_Models_with_LookML-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Looker](https://img.shields.io/badge/Prepare_Data_for_Looker_Dashboards-4285F4?style=flat-square&logo=looker&logoColor=white)
 
 ---
 
+<div align="center">
+
 ### Contato
 
-<p>
-  <a href="https://www.linkedin.com/in/felipe-scudeller-4aa689129/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:felipe.sp.scudeller@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/felipe-scudeller-4aa689129/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:felipe.sp.scudeller@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
